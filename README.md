@@ -2,7 +2,7 @@
 ## Pacmen Exercise 
 <img src= "./images/PacMan1.png" width='300'/>  
 
-### Brief Description: 
+#### Brief Description: 
 Pacmen moving across the screen bouncing off the walls.    
 
 
