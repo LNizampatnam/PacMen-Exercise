@@ -6,6 +6,5 @@
 Pacmen moving across the screen bouncing off the walls.    
 
 
-### FutureImprovements:  
-
+#### FutureImprovements:  
 Change the Pacman image size as well as the speed as the collide with a wall.
